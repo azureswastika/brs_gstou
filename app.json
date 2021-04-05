@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "brs-gstou",
+    "name": "БРС ГГНТУ",
     "slug": "brs_gstou",
     "privacy": "public",
     "platforms": ["android"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/ggntu_logo.png",
     "splash": {
