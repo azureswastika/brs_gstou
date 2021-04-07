@@ -6,7 +6,7 @@
     "platforms": ["android"],
     "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/images/ggntu_logo.png",
+    "icon": "./assets/images/ggntu_logo.jpg",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
@@ -17,7 +17,9 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.gstou.brs",
+      "supportsTablet": true,
+      "buildNumber": "1.0.0"
     },
     "android": {
       "package": "com.gstou.brs",
