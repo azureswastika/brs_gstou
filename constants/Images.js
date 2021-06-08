@@ -8,7 +8,7 @@ const images = {
         ИЭ: require('../assets/images/ИЭ.png'),
     },
     arrow_left: require('../assets/images/Arrow.png'),
-    ggntu_logo: require("../assets/images/ggntu_logo.png"),
+    ggntu_logo: require("../assets/images/ggntu_logo_non_bg.png"),
 }
 
 export {images}

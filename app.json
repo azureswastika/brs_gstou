@@ -4,9 +4,9 @@
     "slug": "brs_gstou",
     "privacy": "public",
     "platforms": ["android"],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
-    "icon": "./assets/images/ggntu_logo.jpg",
+    "icon": "./assets/images/ggntu_logo.png",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
@@ -19,7 +19,7 @@
     "ios": {
       "bundleIdentifier": "com.gstou.brs",
       "supportsTablet": true,
-      "buildNumber": "1.0.0"
+      "buildNumber": "1.0.2"
     },
     "android": {
       "package": "com.gstou.brs",
