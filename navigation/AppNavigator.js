@@ -24,9 +24,10 @@ const screenW = Math.round(Dimensions.get('window').width);
 const styles = StyleSheet.create({
   header: {
     paddingTop: Math.round(screenW/8),
+    // marginBottom: Math.round(screenW/10),
     flexDirection: 'row',
     position:'absolute',
-    height: Math.floor(screenW/6),
+    height: Math.floor(screenW/5),
     top: 0,
     left: 0,
     right: 0,

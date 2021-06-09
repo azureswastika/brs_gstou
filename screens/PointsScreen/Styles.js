@@ -14,9 +14,9 @@ export const styles = StyleSheet.create({
     fontFamily: 'SF-PRO-Text',
     fontStyle: 'normal',
     fontWeight: 'bold',
-    fontSize: 34,
+    fontSize: 25,
+    textAlign: 'center',
     letterSpacing: 0.41,
-    marginLeft: '5%',
     marginBottom: Math.round(screenW/20),
   },
   scrollView: {
